@@ -1,0 +1,2 @@
+First line: Digital Detective practice file.
+Second line: Appending text without overwriting.
