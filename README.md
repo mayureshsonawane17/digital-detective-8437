@@ -37,7 +37,21 @@ I am completing these missions strictly in order, writing notes and observations
 | **Mission 5** | Number systems, Python and text encoding | Completed | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
 | **Mission 6** | Git, GitHub, branches and Pull Requests | Completed | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
 | **Mission 7** | Computer networks | Completed | [mission-07-networking/README.md](mission-07-networking/README.md) |
-| **Mission 8** | Final review and submission | Up Next | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
+| **Mission 8** | Final review and submission | Completed | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
+
+---
+
+## Running the Python Number Converter
+To run the number converter created in Mission 5:
+1. Navigate into the mission folder:
+   ```bash
+   cd mission-05-numbers-data
+   ```
+2. Run the script with Python 3:
+   ```bash
+   python3 number_converter.py
+   ```
+3. Enter any positive decimal integer when prompted to view its binary and hexadecimal equivalents.
 
 ---
 
