@@ -1,5 +1,3 @@
-# Number Converter Program
-# Converts a decimal integer to binary and hexadecimal representations
 
 def main():
     print("=== Decimal to Binary and Hexadecimal Converter ===")
