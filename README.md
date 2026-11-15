@@ -34,8 +34,8 @@ I am completing these missions strictly in order, writing notes and observations
 | **Mission 2** | Terminal and file management | Completed | [mission-02-terminal/README.md](mission-02-terminal/README.md) |
 | **Mission 3** | Operating system, processes and permissions | Completed | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) |
 | **Mission 4** | How programs run | Completed | [mission-04-programs/README.md](mission-04-programs/README.md) |
-| **Mission 5** | Number systems, Python and text encoding | Up Next | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
-| **Mission 6** | Git, GitHub, branches and Pull Requests | Pending | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
+| **Mission 5** | Number systems, Python and text encoding | Completed | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
+| **Mission 6** | Git, GitHub, branches and Pull Requests | Up Next | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
 | **Mission 7** | Computer networks | Pending | [mission-07-networking/README.md](mission-07-networking/README.md) |
 | **Mission 8** | Final review and submission | Pending | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
 
