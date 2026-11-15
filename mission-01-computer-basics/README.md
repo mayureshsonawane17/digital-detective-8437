@@ -1,17 +1,17 @@
-# Mission 1 — Know your computer
 
-## 1. Task / objective
+
+1. Task / objective
 To understand basic computer concepts by tracing an activity through the IPOS cycle, identifying hardware and software, and observing everyday computer systems.
 
-## 2. Work completed
+2. Work completed
 
-### Task 1.1 — Trace one activity using IPOS
-* **Activity:** Calculating and saving student marks.
+Task 1.1 — Trace one activity using IPOS
+Activity:Calculating and saving student marks.
 
 | Stage | What happens in my example? | Hardware / component involved |
 | :--- | :--- | :--- |
-| **Input** | I typed marks to calculate | Keyboard |
-| **Processing** | The computer calculated it | CPU and Memory (RAM) |
+| Input | I typed marks to calculate | Keyboard |
+| **Processing | The computer calculated it | CPU and Memory (RAM) |
 | **Output** | Gave the calculated marks | Screen / Monitor |
 | **Storage** | Saved the marks in SSD | Internal SSD |
 
@@ -40,25 +40,3 @@ To understand basic computer concepts by tracing an activity through the IPOS cy
 
 ---
 
-## 3. Commands / tools used
-- Text editor (VS Code) to write and format notes.
-- Git to commit and push changes.
-
-## 4. My understanding
-- Computers work through the IPOS cycle: they take input from devices like keyboards, calculate and process it with the CPU/RAM, display output on the screen, and store the results in an SSD for later use.
-- Hardware consists of the physical components (CPU, RAM, SSD), while software provides instructions (Operating System like macOS, applications like Chrome, utilities like Terminal).
-- Everyday devices like ATMs, traffic signals, and ticket machines are specialized computers built to do specific tasks automatically.
-
-## 5. Difficulties faced
-- No major difficulties.
-
-## 6. How I resolved them
-- Not applicable.
-
-## 7. Evidence / files
-- `mission-01-computer-basics/README.md`
-
-## 8. Commit details
-- **Commit message:** `Complete computer basics and IPOS mission`
-- **Branch:** `main`
-- **Pushed to:** `https://github.com/mayureshsonawane17/digital-detective-8437.git`

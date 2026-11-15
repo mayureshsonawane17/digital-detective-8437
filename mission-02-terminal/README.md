@@ -1,4 +1,4 @@
-# Mission 2 — Become comfortable with the Terminal
+Mission 2
 
 ## 1. Task / objective
 The objective of Mission 2 is to gain confidence working with the command-line interface (CLI) on macOS. This involves:
