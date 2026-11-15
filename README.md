@@ -46,3 +46,12 @@ I am completing these missions strictly in order, writing notes and observations
 2. **Dedicated commits:** Every completed mission gets its own commit with a descriptive message.
 3. **Privacy first:** All personal data (like my internal usernames, IP addresses, and Wi-Fi networks) are kept private or redacted as `[redacted]`.
 4. **My own words:** All explanations and observations reflect what I actually saw and learned on my Mac.
+
+---
+
+## My Learning
+Through the initial missions of this independent investigation, I have learned:
+1. **Computer Fundamentals & IPOS:** How hardware components (keyboard, CPU, RAM, display, SSD) work together to take inputs, process instructions, generate outputs, and save durable data.
+2. **Terminal & Operating Systems:** How to navigate directories, pipe command outputs, interpret Unix file permissions (`rwx`), and monitor active background processes by their Process IDs (PIDs).
+3. **Number Systems & Python:** How to convert values manually between decimal, binary, and hexadecimal, verify them with Python, and build a working converter script while understanding character encoding standards like ASCII and UTF-8.
+
