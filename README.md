@@ -36,8 +36,8 @@ I am completing these missions strictly in order, writing notes and observations
 | **Mission 4** | How programs run | Completed | [mission-04-programs/README.md](mission-04-programs/README.md) |
 | **Mission 5** | Number systems, Python and text encoding | Completed | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
 | **Mission 6** | Git, GitHub, branches and Pull Requests | Completed | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
-| **Mission 7** | Computer networks | Up Next | [mission-07-networking/README.md](mission-07-networking/README.md) |
-| **Mission 8** | Final review and submission | Pending | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
+| **Mission 7** | Computer networks | Completed | [mission-07-networking/README.md](mission-07-networking/README.md) |
+| **Mission 8** | Final review and submission | Up Next | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
 
 ---
 
